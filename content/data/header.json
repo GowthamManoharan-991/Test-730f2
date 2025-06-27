@@ -11,7 +11,7 @@
     },
     "primaryLinks": [
         {
-            "label": "Pricing",
+            "label": "Doors",
             "url": "/pricing",
             "icon": "arrowRight",
             "iconPosition": "right",
@@ -19,7 +19,7 @@
             "type": "Link"
         },
         {
-            "label": "Blog",
+            "label": "Windows",
             "altText": "Blog",
             "url": "/blog",
             "icon": "arrowRight",
@@ -28,7 +28,7 @@
             "type": "Link"
         },
         {
-            "label": "Careers",
+            "label": "Wooden Sofa",
             "altText": "Careers page",
             "url": "/careers",
             "icon": "arrowRight",
@@ -37,7 +37,7 @@
             "type": "Link"
         },
         {
-            "label": "Dropdown",
+            "label": "Products List",
             "altText": "Dropdown",
             "links": [
                 {
@@ -71,17 +71,17 @@
     ],
     "secondaryLinks": [
         {
-            "label": "Sign up",
+            "label": "Call Us",
             "altText": "Sign up",
-            "url": "https://app.netlify.com/signup",
+            "url": "tel:+919791974780",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Button"
         },
         {
-            "label": "Log in",
-            "url": "/",
+            "label": "Whatsapp",
+            "url": "https://wa.me/919791974780",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
